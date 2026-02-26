@@ -1,1 +1,14 @@
+# Rust
 /target
+Cargo.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Helix editor
+.helix/
+
+# Environment
+.env
